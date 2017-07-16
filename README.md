@@ -1,4 +1,6 @@
-# Site
+# HTTPS7Team
 Fixed version - DO NOT EDIT, ONLY DOGEEE CAN EDIT FOR NOW!
 
-©Only we can use our name
+### Hello there, we are a small team who makes and sells code for people and projects
+
+;copy JUST WHY DID YOU HAVE TO PUT THIS SH*T?
