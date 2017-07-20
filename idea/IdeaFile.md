@@ -6,6 +6,8 @@
 2. Game Website
 3. Online Shop
 4. MineTube
+5. Notifacations
+6. Better Flash Player
 
 ### Names of contributers:
 
