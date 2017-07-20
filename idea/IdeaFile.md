@@ -1,19 +1,19 @@
-### This is our Idea Fact File or IFF!
+## This is our Idea Fact File or IFF!
 
-## Ideas:
+### Ideas:
 
 1. A new version of Chrome/FireFox
 2. Game Website
 3. Online Shop
 4. MineTube
 
-## Names of contributers:
+### Names of contributers:
 
 Time started on Project(s):
 MineTube: N/A
 
-## Time finished Project(s):
+### Time finished Project(s):
 MineTube: N/A
 
-## Status of Project:
+### Status of Project:
 MineTube: ABORTED!
