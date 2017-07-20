@@ -1,4 +1,4 @@
-## CFF
+# CFF
 
 Names/Users:
 
@@ -13,7 +13,7 @@ Previous work:
 Jobs:
 
 Age:
-# Incase of wanting to work for us. (13+)
+## Incase of wanting to work for us. (13+)
 
 Other:
 
