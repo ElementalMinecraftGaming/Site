@@ -25,3 +25,6 @@ Ideas to add:
 
 
 ### Make New files in this folder for every client if needed.
+
+
+Not needed for owners.
