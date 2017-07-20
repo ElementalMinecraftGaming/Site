@@ -8,6 +8,8 @@
 4. MineTube
 5. Notifacations
 6. Better Flash Player
+7. HTTPS Maps
+8. Instant updater
 
 ### Names of contributers:
 
