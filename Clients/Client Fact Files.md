@@ -25,6 +25,7 @@ Ideas to add:
 
 
 ### Make New files in this folder for every client if needed.
+### When making the files if you want it for download put .md at the end of the name but if no put .index
 
 
 Not needed for owners.
