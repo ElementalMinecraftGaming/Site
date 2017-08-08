@@ -9,10 +9,9 @@ Fixed version
 
 Mattemmodder
 
-Dogeee
 
-### Fact Files:
+## - Mesaage from Dogeee
 
-Jason Rodgers
+From now on I won't be apart of the HTTPS7Team. I will occasionally contribute code, but from now on I have to work on different things
 
-User101
+-Dogeee
