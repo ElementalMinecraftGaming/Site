@@ -1606,12 +1606,12 @@
 				border: solid 10px #fff;
 			}
 			.wrapper.style4 {
-			background: #f3f3f3 url("images/overlay.png");
+			background: #4682B4 url("images/overlay.png");
 		}
 
 			.wrapper.style4 .title {
 				background: #f3f3f3 url("images/overlay.png");
-				color: #ADFF2F;
+				color: #484d55;
 			}
 
 			.wrapper.style4 .image {
