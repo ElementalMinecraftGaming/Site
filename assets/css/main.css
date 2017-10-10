@@ -1606,7 +1606,7 @@
 				border: solid 10px #fff;
 			}
 			.wrapper.style4 {
-			background: #4682B4 url("images/overlay.png");
+			background: #fff url("images/overlay.png");
 		}
 
 			.wrapper.style4 .title {
@@ -1615,7 +1615,7 @@
 			}
 
 			.wrapper.style4 .image {
-				border: solid 10px #fff;
+				border: solid 10px #F5F5F5;
 			}
 
 	#header-wrapper {
