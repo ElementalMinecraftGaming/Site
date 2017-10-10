@@ -1102,6 +1102,10 @@
 			color: inherit;
 			text-decoration: none;
 		}
+		h3 a {
+			color: #32CD32;
+			text-decoration: none;
+		}
 
 	a {
 		-moz-transition: color .25s ease-in-out;
@@ -1581,11 +1585,11 @@
 			}
 
 		.wrapper.style2 {
-			background: #fff;
+			background: #F0F8FF;
 		}
 
 			.wrapper.style2 .title {
-				background: #fff;
+				background: #F0F8FF;
 				color: #484d55;
 			}
 
