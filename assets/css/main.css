@@ -1606,16 +1606,16 @@
 				border: solid 10px #fff;
 			}
 			.wrapper.style4 {
-			background: #E9967A url("images/overlay.png");
+			background: #DEB887 url("images/overlay.png");
 		}
 
 			.wrapper.style4 .title {
-				background: #E9967A url("images/overlay.png");
+				background: #DEB887 url("images/overlay.png");
 				color: #1E90FF;
 			}
 
 			.wrapper.style4 .image {
-				border: solid 10px #F5F5F5;
+				border: solid 10px #DEB887;
 			}
 
 	#header-wrapper {
