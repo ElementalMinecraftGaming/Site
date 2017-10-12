@@ -1637,6 +1637,18 @@
 			.wrapper.style9 .image {
 				border: solid 10px #c3a6a6;
 			}
+		.wrapper.style10 {
+			background: #d4d2c8 url("images/overlay.png");
+		}
+
+			.wrapper.style10 .title {
+				background: #d4d2c8 url("images/overlay.png");
+				color: #1E90FF;
+			}
+
+			.wrapper.style10 .image {
+				border: solid 10px #c3a6a6;
+			}
 
 	#header-wrapper {
 		background: url("../../images/banner.jpg") center center;
