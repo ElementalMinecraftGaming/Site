@@ -19,6 +19,4 @@ Guess The Picture-Sections
 
 Radio Blank
 
-Coming soon:
-
 HTTPS7 News
