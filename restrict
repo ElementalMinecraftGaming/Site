@@ -1,0 +1,35 @@
+
+<!DOCTYPE HTML>
+<!--
+	Idea and source from HTML5UP, edited and changed by Mr__Command
+-->
+<html>
+	<head>
+		<title>HTTPS7Team - Apps</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="homepage">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper" class="wrapper">
+					<div id="header">
+
+						<!-- Logo -->
+							<div id="logo">
+								https://discordapp.com/api/oauth2/authorize?client_id=369536909338214401&permissions=0&redirect_uri=https%3A%2F%2Fhttps7team.github.io%2Fsite&response_type=code&scope=bot
+							</div>
+
+						<!-- Nav -->
+							<nav id="nav">
+								
+									
+								</ul>
+							</nav>
+
+					</div>
+				</div>
